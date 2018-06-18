@@ -1,0 +1,20 @@
+{
+  "name": "@agilatech/lynxari-mock-device",
+  "version": "1.3.0",
+  "description": "Mock sensor device driver for use in the Agilatech Lynxari system",
+  "main": "mock-scout.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agilatech/lynxari-mock-device.git"
+  },
+  "keywords": [
+    "sensor",
+    "mock",
+    "mock sensor"
+  ],
+  "author": "Agilatech <scott@agilatech.com> (http://agilatech.com)",
+  "license": "MIT",
+  "dependencies": {
+    "@agilatech/mock": "*"
+  }
+}
